@@ -1,4 +1,4 @@
-name := "renesca-magic-hack"
+name := "renesca-magic"
 
 // don't forget to change the version in README.md
 version := "1.0.0-SNAPSHOT"
